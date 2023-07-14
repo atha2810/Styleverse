@@ -4,7 +4,7 @@
 • Developed Styleverse, a fashion e-commerce website using ReactJS • Proficiently utilized Strapi as a headless CMS (Content Management System) for managing website content, including products, categories, and pages, and for creating Rest API and back-end services. • Implemented Stripe as the payment gateway for secure and seamless online transactions • Utilized Redux Toolkit to provide users with efficient cart functionality for their selected products • Utilized Sass to create a visually appealing website design
 
 # Screenshots
-![screenshot](sHomepage.png)<h2>Homepage👆</h2>
+![screenshot](sHomescreen.png)<h2>Homepage👆</h2>
 ![screenshot](sCategories.png)<h2>Categories👆</h2>
 ![screenshot](Ssingle.png)<h2>Single Product👆</h2>
 
