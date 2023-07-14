@@ -1,8 +1,16 @@
-# Styleverse
-Ecommerce website built using ReactJS ,styled using Sass, handled backend and Api with the use of headless CMS Strapi ,and also added payment Gateaway using stripe. 
-<h3>HomePage</h3>
-<img src="https://lh3.googleusercontent.com/xngPh2YG1b3wCr8f4EJciIOsFtIa8dku8DslduleXJatPvGdqruaF_Y7QglmuazYeB-Yz5QH_B_6Ek32mv7M0zhV6vZmtF6QWmOxR2_-Euud7w0vaHqzoBDJ2a_gZkhhX1ZYwXafXIzFQMFqFrPnxxM-Y2zGy4X9YrPmLtSmwxf2rmKT-J0JeLTwfjW7NruUb7miloYhbDznF7gAoPhUHa2OpvCgQ_ogjDlbv01Lw3Nz6Nl-cgGcgdO43iTsLAOJYtCmpTNiuGawFE-PLD2H5u0k_G5iSp5_D53JmxOju_GmQCWRGnnQiGIPd6F2f8I0B87-J2E4TEx3FMIaNXl5Lob8AWRdeZx6PpJ6v_o8B6Cj8Hvpku7SFmh3BtuL-7mlSAhVSqG8ozavgjQ6HldnABLf415KWLZpaWZmOGDuUEI-gMGwRcxl6mD6Hz3l7CRagQ__QumO8QtK2cpIRs0twJ-3TH0Bb7QARrM41gTO18bfzk1FENxE0SD_OFtJjHgMKh4M6jO8iXoCGlYmlosSTZBllR5gkAXI3MutHqiX662czuJ7eFhsXeVlGdlxFoeZSWq-HXTY-aAY4EwZcB6ZxF9lNDkaNfXWsuL00Scr5S1OLWZ7iMPUauJldaeno5SkJmP-7VUvJ38rFyd4SkDpoOkJO4ohNRxyJ1-QHlehPfr3xorbQkpuJ7Aq38gxUOeH2gCWd1A4zIK1s81EJRiXQT0B7saq0bGXuNn3MOd4-SjiPaFbp-c98w9MFiVNmmWh88FxPKgmCRTsJFFUNUW1p-SgRybLaxotk98Jge6GDD9HdWrXxYdaR6msav6z6JC6r2ioeP0K2zpJZ69hd3azlubZVjDmDuQPhF_uiG_hV84_8po1q7fb8H5E2Iur8NQL0kEDNQwebMEohwFyQHq-rMlGbFQ7N9bvzP30qjWlEN4u=w1830-h913-s-no?authuser=0">
-<h3>Categories</h3>
-<img src="https://lh3.googleusercontent.com/938hw7ceN8gGApqgz4bdL1Mn1A7_HGPK1aYdv1M9ICBrdydsGN0UqKjnIGqewCYYq3cyANNN_i0WgcS6nW2XBqq4dq1TYBk0IGmKRX4Lz3KRnoAxq0Gmkeuy0FUHSSVF0WU3LNRMsltScSksJSOaqYN9YPfksMKz4PJv3DQZXN4dN8RKBl5IjOpKZCGJRpKUY5hjf9wAbtyfXfTmNhMbTh6oewVh0omA2Ow234NQ30i_05VqJxqVQ2oJYIxipRcj6AfXd1WOfr5EKsL7tZEzhtptEhBhX8mA-DruJXyZA6xtbkZ3FHGvi11-6d65-wWwsSzaJIpZ4nvuDeAbJElOWMTdUEjhfQgg0kEFzAsX--_F3YuyqHHohb-2BJEJiC0RibnGuIKYtpxDVnK1OGCYwDvz5JL25QwhMvhTYVWDbP0GtnFI3JX2ZtbDt_2kouxN9nkie-XmtHuB5D5dPoJBzQ7mTFDW4mhrUJFIZWH8xDWB5uY2Goy1UhULkmyd6PmkzdesMUyt45GdPExB82luXz9l3YxZZxn3txbgLHmHkBUqlHzUZWF7KuoliMH0hz71K3sM-C9war0Bk-VVuTajOJ9zfbfeR9DVVnT4xSK9bwmAmu0Z6ySkCy1IDUD8iDRyHkMHk4fuz50PUtdO9oxiH-__X4ByRftSRDGOyHvI92vx_AHr4bpbol59AHmwi3IvRA4hBikxo3PfNstsqUEcZAgoeQNOsg3nNoeCc9vzdL6MdditmLjxllqxxd8MuJLcyeKdSp46iMXBvg5RH59_Up2hlFlF5srsAJ0ZFt1Ouc_kh1wZzqlxvYKu8H3Ua3rDX3VzlCBuCP423TAnJVOxKjr-UnMLVS6cmVtK8fbTGML_pFaMe4u3AuCtqJRUg0tWi0D9X-Cxh13VYNw_srAMnnmf_ReJYfCOd4lyNyLTDdHb=w1816-h912-s-no?authuser=0">
-<h3>Single Product</h3>
-<img src="https://lh3.googleusercontent.com/AUOLVu98ZWJ_ikrQIfNPXYF4iQ5iEwkEeikGlhwMKL1sYqf2QosgXtkk-UdjzcTjvERuvRSGsS00lxVmCFc5R5CV2mLk7QPHQURrVlQfR95l0Hlu_5Ybs2666tgpSJOg7FIFqpGLW1545uQ4QfT0FO-AQuJwhLBt43gbeSmpPiH-_dv-COlP_rOmmKQl9gVCM8cgIVTwY8PYNlSUMfNFQFKApaUDRDkLVFoFg0sDZR7oKQeGG7YgJCq0-F23lB-kudhUd7y6abfuF2KpbYwACFUqtO-ew10JRrJ4cr3CfJdgib1EHPqQmuH0pJi9yNgxUm_mAjuhDt1KbVg4NHY4b5Ii-8MAODx3FkcWgydvB5LcqTZQrkBX6LiUjCWNDYQbquJowqCfNt39iUsBb5iekAu82TetEbnYWDcAKyiKprwrEpujH3tiGqSHkdoY9ggGJn8cADRgdbmUG_h4r7D_9xtYW38dG46vsyFK5VVDhvJ07L_zJ2-hdBLMwELFZMSCxFXeGzxPAxaCrIRRcaz7m-XaS7tdD2EsuG7SeA7Ln-qNfhz6erpMaYCUSDL-2PB1PtY1RAYZjIQ1RHTxE7LrdZ5-UmvJ-ftGBYRF4f8WVBKf1zCmlxIxYszTDcUwoYrn2Xz9LTBKnpxIqgT2DamnLAb6c9XGJC0x1knnieJBwOk1RUUoe3OxmqqYmrhsT-uzIqzUUxMblbSUAqUod7O6r-7zoG4eUjLNOHfm7XgxfGIb5gzujeYSNNPlHC_sRxMceKxrqFLme6a6GHDts2aQizkanPX25q8oU_IYLXE-EfH5pAs3XvQq0EVO5XxZK2ICxVMHw0RPcA6Umr31wmKLS9OZbeRLo4nB1bDVVO3-0_rJ_OP_tGSU_PTppsOmH5x5BXm1iidriqPyHzVCqfyf6gt7Uw_J36x4NIpHCaOiDPoZ=w1824-h932-s-no?authuser=0">
+<div align="center"><h1> Style-Verse : Fashion website </h1> </div>
+
+# About
+• Developed Styleverse, a fashion e-commerce website using ReactJS • Proficiently utilized Strapi as a headless CMS (Content Management System) for managing website content, including products, categories, and pages, and for creating Rest API and back-end services. • Implemented Stripe as the payment gateway for secure and seamless online transactions • Utilized Redux Toolkit to provide users with efficient cart functionality for their selected products • Utilized Sass to create a visually appealing website design
+
+# Screenshots
+![screenshot](sHomepage.png)<h2>Homepage👆</h2>
+![screenshot](sCategories.png)<h2>Categories👆</h2>
+![screenshot](Ssingle.png)<h2>Single Product👆</h2>
+
+# Tech Stack
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white&style=for-the-badge)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white&style=for-the-badge)
+![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?logo=strapi&logoColor=white&style=for-the-badge)
