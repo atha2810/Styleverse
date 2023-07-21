@@ -5,8 +5,15 @@
 
 # Screenshots
 ![screenshot](sHomescreen.png)<h2>Homepage👆</h2>
+![screenshot](trending.png)<h2>Trending Products👆</h2>
 ![screenshot](sCategories.png)<h2>Categories👆</h2>
+![screenshot](featured.png)<h2>Featured Products👆</h2>
+![screenshot](womencateg.png)<h2>Women Category👆</h2>
+![screenshot](mencateg.png)<h2>Men's Category With Filtered Products👆</h2>
 ![screenshot](Ssingle.png)<h2>Single Product👆</h2>
+![screenshot](Cart.png)<h2>Add & Delete Product to Cart👆</h2>
+![screenshot](stripe-payment.png)<h2>Payment gateaway With Stripe👆</h2>
+![screenshot](footer.png)<h2>Footer👆</h2>
 
 # Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
