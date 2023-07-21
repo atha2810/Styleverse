@@ -11,7 +11,7 @@
 ![screenshot](womencateg.png)<h2>Women Category👆</h2>
 ![screenshot](mencateg.png)<h2>Men's Category With Filtered Products👆</h2>
 ![screenshot](Ssingle.png)<h2>Single Product👆</h2>
-![screenshot](Cart.png)<h2>Add & Delete Product to Cart👆</h2>
+![screenshot](cart.png)<h2>Add & Delete Product to Cart👆</h2>
 ![screenshot](stripe-payment.png)<h2>Payment gateaway With Stripe👆</h2>
 ![screenshot](footer.png)<h2>Footer👆</h2>
 
