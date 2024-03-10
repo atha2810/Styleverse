@@ -1,0 +1,42 @@
+.featuredProducts{
+
+    margin: 100px 200px;
+
+    .top{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 50px;
+
+        h1{
+            flex: 2;
+            text-transform: capitalize;
+        }
+        p{
+            flex: 3;
+            color: grey;
+        }
+    
+    }
+    .bottom{
+        display: flex;
+        justify-content: center;
+        gap: 50px;
+    }
+}
+
+@media (max-width:400px) {
+    .featuredProducts{
+        .top{
+            justify-content: space-around;
+            h1{
+            right:100px;
+            
+            white-space: nowrap;
+            }
+            p{
+                display: none;
+            }
+        }
+    }
+}

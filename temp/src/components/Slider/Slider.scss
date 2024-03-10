@@ -1,0 +1,64 @@
+
+.slider{
+    height: calc(100vh - 80px);
+    width: 100vw;
+    position: relative;
+    overflow: hidden;
+
+    .container{
+        width: 300vw;
+        display: flex;
+        height: 100%;
+        transition:all 1s ease;
+
+        img{
+            width: 100vw;
+            height: 100%;
+            object-fit: cover;
+        }
+    }
+
+    .icons{
+        width: fit-content;
+        gap: 15px;
+        display: flex;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 70px;
+        margin: auto;
+        
+        .icon{
+            height: 50px;
+            width: 50px;
+            display: flex;
+            border: 2.5px solid white;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+        }
+    }
+}
+
+@media (max-width: 400px) {
+    .slider{
+        height: 800px;
+        width: 875px;
+    .container {
+      width: 200vw;
+    }
+    
+    .container img {
+      width: 875px;
+    }
+    
+    .icons {
+      bottom: 20px;
+    }
+    
+    .icon {
+      height: 30px;
+      width: 30px;
+    }
+    }
+  }
